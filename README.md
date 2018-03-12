@@ -1,2 +1,3 @@
 # hello-world-3
-Testing the update process
+Update the readme file, commit and update changes.
+# End hello world 3 example
